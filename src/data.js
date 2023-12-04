@@ -65,7 +65,7 @@ const dCostPerCategory = [
       { sub_id: 3, prod_name: "RAB" },
     ],
     description:
-      "Desain interior mulai 150K atau 5 - 10 % dari total nilai projek.",
+      "Desain interior mulai 80K atau 5 - 10 % dari total nilai projek.",
     img_url:
       "https://images.unsplash.com/photo-1581093806997-124204d9fa9d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
@@ -73,7 +73,7 @@ const dCostPerCategory = [
     id: 2,
     category: "Produksi",
     currency: "Rp.",
-    cost_str: "2Jt",
+    cost_str: "1Jt",
     cost_min: 1000000,
     cost_max: 3500000,
     products: [
@@ -82,7 +82,7 @@ const dCostPerCategory = [
       { sub_id: 3, prod_name: "Apartment Set, dll" },
     ],
     description:
-      "Pembuatan mebel custom termasuk kitchen set, furniture dan lainnya hingga instalasi mulai dari 2Jt, disesuaikan dengan harga dan qualitas material",
+      "Pembuatan mebel custom termasuk kitchen set, furniture dan lainnya hingga instalasi mulai dari 1Jt, disesuaikan dengan harga dan qualitas material",
     img_url:
       "https://images.unsplash.com/photo-1615974679548-2fcfd4699f62?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
