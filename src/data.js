@@ -56,7 +56,7 @@ const dCostPerCategory = [
     id: 1,
     category: "Design dan RAB",
     currency: "Rp.",
-    cost_str: "150K",
+    cost_str: "80K",
     cost_min: 80000,
     cost_max: 3500000,
     products: [
