@@ -139,10 +139,7 @@ Teknologi yang digunakan pada projek REST API ini adalah sebagai berikut:
 
 - [node.js] - bahasa dasar untuk membangun backend
 - [Express] - library dari node.js yang memudahkan pembuatan API
-
-## Kontribusi
-
-Jika anda ingin berkontribusi dalam project ini saya akan sangat terbuka dan berterimakasih, dan jika ada kekurangan atau masalah pada REST API ini silahkan kontak saya melalui email muhabdulazis555@gmail.com atau bisa tulis di kolom **issues** pada repo ini.
+ 
 
 ## License
 
