@@ -57,7 +57,7 @@ const dCostPerCategory = [
     category: "Design dan RAB",
     currency: "Rp.",
     cost_str: "150K",
-    cost_min: 150000,
+    cost_min: 80000,
     cost_max: 3500000,
     products: [
       { sub_id: 1, prod_name: "3d Desain" },
@@ -74,7 +74,7 @@ const dCostPerCategory = [
     category: "Produksi",
     currency: "Rp.",
     cost_str: "2Jt",
-    cost_min: 2000000,
+    cost_min: 1000000,
     cost_max: 3500000,
     products: [
       { sub_id: 1, prod_name: "Kitchen Set" },
